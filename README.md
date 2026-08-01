@@ -1,2 +1,2 @@
 # Terminal
-Basic terminal project
+Basic Unix shell project
